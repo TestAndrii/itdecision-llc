@@ -1,4 +1,4 @@
-# Nginx PHP MySQL
+# Nginx PHP MySQL for itdecision-llc
 
 Docker running Nginx, PHP-FPM, Composer, MySQL and PHPMyAdmin.
 
